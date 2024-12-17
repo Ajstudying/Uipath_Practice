@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="oIqrgPbSIEKsSc5btc-pxw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="weather.go.kr/w/weather/warning/status.do" CVScreenId="70eca7d2-45fb-4a8b-a994-026dd3e16aa0" CvTextArea="496, 171, 110, 34" CvTextArgument="5gc2" CvType="Text" DesignTimeRectangle="496, 171, 110, 34" DesignTimeScaleFactor="1" ElementType="Text" Guid="17862b3f-3740-4f6a-bc3d-1a68000899f2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='특보현황 - 기상청 날씨누리' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="70eca7d2-45fb-4a8b-a994-026dd3e16aa0" CvTextArea="496, 304, 1190, 38" CvTextArgument="7|35Y0 ? + $E7|Z -7|" CvType="Text" DesignTimeRectangle="497, 293, 1200, 58" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='weather-warning' tag='H3' type='' class='tit' aaname=' &amp;#x9;&amp;#x9;기상특보 &amp;#x9;&amp;#x9; &amp;#x9;&amp;#x9; &amp;#x9;' check:innerText='기상특보&amp;#xA;+ 발표기준 보기' /&gt;" Guid="37fdb756-383c-462b-ac3e-cd27ab10d1d1" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e13deec518bba9b316f20753ace26b05.png" xmlns="">09RSFkp6Svk2OUlZdWHVdEg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

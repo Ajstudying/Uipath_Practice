@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge 홈 - 기상청 날씨누리 - 개인 - Microsoft​ Edge",
+  "Type": "Screen",
+  "Id": "P1TQ3gVR1EO4BM1vaQiOQA",
+  "Reference": "9s0huugnE0uydbu7IVU6Ng/P1TQ3gVR1EO4BM1vaQiOQA",
+  "ParentRef": "9s0huugnE0uydbu7IVU6Ng/VFPnx6h900WD10I_x9-2EQ",
+  "Created": "2024-12-13T05:48:36.9324682Z",
+  "Updated": "2024-12-13T05:48:36.9324682Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome 홈 - 기상청 날씨누리 - Chrome",
+  "Type": "Screen",
+  "Id": "uazzJ3x1zUiPFGzc5ljFpw",
+  "Reference": "gHw9SlJEx0-kgF3fW80a6Q/uazzJ3x1zUiPFGzc5ljFpw",
+  "ParentRef": "gHw9SlJEx0-kgF3fW80a6Q/7S9KtyeZ3kK-qxfABimH_Q",
+  "Created": "2024-12-14T12:20:35.0219422Z",
+  "Updated": "2024-12-14T12:20:35.0219422Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

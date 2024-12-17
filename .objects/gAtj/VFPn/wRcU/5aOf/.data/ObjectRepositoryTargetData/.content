@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1YrNiQ8yOEucoxZczxME_g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="weather.go.kr/w/index.do" CVScreenId="879fbde2-3b1b-4e3b-b270-8d429d50c480" CvTextArea="52, 358, 68, 21" CvTextArgument="7|35¥" CvType="Text" DesignTimeRectangle="44, 358, 84, 24" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl parentid='wnuri-menu' tag='SPAN' type='' class='' aaname='기상특보' check:innerText='기상특보' /&gt;" Guid="ef2ff242-8294-4d6d-8263-79065a41dafc" ScopeSelectorArgument="&lt;html app='msedge.exe' title='홈 - 기상청 날씨누리' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="879fbde2-3b1b-4e3b-b270-8d429d50c480" CvTextArea="40, 305, 40, 22" CvTextArgument="=&quot;|" CvType="Text" DesignTimeRectangle="14, 291, 261, 54" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='wnuri-menu' tag='A' type='' class='d1-btn accordionsecond-tit on' aaname='날씨 ' check:innerText='날씨' /&gt;" Guid="e995bcba-d446-4724-8c1f-ff3fa2f29047" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="879fbde2-3b1b-4e3b-b270-8d429d50c480" CvTextArea="52, 409, 179, 19" CvTextArgument="0|Y +" CvType="Text" DesignTimeRectangle="14, 395, 261, 50" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='예보' parentid='wnuri-menu' tag='A' type='' class='d2-btn accordionsecond-tit' check:innerText='예보' /&gt;" Guid="a7828c0e-4d83-4110-a04c-e692c8960b47" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8d237e19ae31e9fe86fd60592e987d6e.png" xmlns="">0UTa8ROOuZUuqycvuj79TAQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

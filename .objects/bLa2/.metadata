@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome 홈 - 기상청 날씨누리 - Chrome",
+  "Type": "App",
+  "Id": "bLa2lvVlN06d5PGKCVOR0w",
+  "Reference": "gHw9SlJEx0-kgF3fW80a6Q/bLa2lvVlN06d5PGKCVOR0w",
+  "Created": "2024-12-14T12:20:35.0047964Z",
+  "Updated": "2024-12-14T12:20:35.0047964Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

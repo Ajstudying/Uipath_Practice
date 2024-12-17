@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="T6kk2lp2qESzuNs4kUkizA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="weather.go.kr/w/index.do" CVScreenId="59855e66-44bc-4133-88d5-f658957593e3" CvTextArea="48, 344, 67, 22" CvTextArgument="5¥ע|7" CvType="Text" DesignTimeRectangle="40, 344, 84, 24" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl parentid='wnuri-menu' tag='SPAN' type='' class='' aaname='기상특보' check:innerText='기상특보' /&gt;" Guid="c9056ac0-5a46-480d-8085-f466503b621d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='홈 - 기상청 날씨누리' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="59855e66-44bc-4133-88d5-f658957593e3" CvTextArea="36, 291, 40, 22" CvTextArgument="=&quot;|" CvType="Text" DesignTimeRectangle="10, 277, 261, 54" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='wnuri-menu' tag='A' type='' class='d1-btn accordionsecond-tit on' aaname='날씨 ' check:innerText='날씨' /&gt;" Guid="d20178f3-ec62-4d89-a0f0-06b78f3db788" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d714ff403467a850eef130dce9c42a7c.png" xmlns="">0Gyd47cl7nE-Ay7KHITi9_g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "레이블 '5gc2'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "S4-ls0bqhkGfnRLr41xOtw",
+  "Reference": "gHw9SlJEx0-kgF3fW80a6Q/S4-ls0bqhkGfnRLr41xOtw",
+  "ParentRef": "gHw9SlJEx0-kgF3fW80a6Q/2viLqNU0yE6edL9K66a8sg",
+  "Created": "2024-12-14T11:58:26.110129Z",
+  "Updated": "2024-12-14T11:58:26.110129Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "특보현황",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "_Wa7okaJSU-MKKKr3GZVmg",
+  "Reference": "9s0huugnE0uydbu7IVU6Ng/_Wa7okaJSU-MKKKr3GZVmg",
+  "ParentRef": "9s0huugnE0uydbu7IVU6Ng/wRcUJVYA4EqglL_1c7HWPQ",
+  "Created": "2024-12-13T06:01:58.1197018Z",
+  "Updated": "2024-12-13T06:01:58.1197018Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

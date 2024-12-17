@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9-io00R5j0WNhhu-t_LFoQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="weather.go.kr/w/index.do" CVScreenId="158bb8d4-27af-4bcc-b9dc-66f5eba442a9" DesignTimeRectangle="10, 277, 261, 54" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='wnuri-menu' tag='A' type='' class='d1-btn accordionsecond-tit' aaname='날씨 ' check:innerText='날씨' /&gt;" Guid="dc80fb61-f113-4c2b-bd16-0a561a747d92" ScopeSelectorArgument="&lt;html app='chrome.exe' title='홈 - 기상청 날씨누리' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="158bb8d4-27af-4bcc-b9dc-66f5eba442a9" CvElementArea="200, 287, 46, 34" CvType="Icon" DesignTimeRectangle="207, 293, 34, 22" FuzzySelectorArgument="&lt;webctrl tag='I' type='' class='icon' aaname='' /&gt;" Guid="47f7190f-a339-4a7f-ad84-252612414215" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACYAAAAaCAYAAADbhS54AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAK7SURBVFhHzVZJaBRBFI37gqhBxBUUFfUguOPJk57EgxdFPCmoeNODR1HPehHiIUajiRITXAKiaFDBJBCCK6IG0WicJdOZJZnMtJPZJ8//a6Y7PT3VMYzdZh48+P2ru/6r+vV/dVVVrQsVSamzEih12shFDR6cfzuM6XXycUtKnTby6KtBMFY39UvHLSl12shJFcbpOvdmGAtvekrGxhO24o5XfDejzl0yZouwzfcVJLOj6PYnMd8kbiUFb+0bwUxT8CWNXvyMZuCPZ1F9q3RBtqXy0IsgUrlRdCgJ8Tz1mgsbW3w4/DKEM11hHGgLCpE8xuJ7IxmEEjmsa7ZIsdRZJo+QiA+hlEhpOwmU4fLHqBDcE05jfbNPOo+g1GlBPksnOgbxOpAUQXjFjd9i2EKpNLaDq19UfKcdiaRy4j0znrjjmEY7apy7hFKniVOIxwqH2ArvaacWN3gx+7ob8+rdutCDz4NQ06UCT9ICzXGKKHUayKIuUIMsB1c+qZh7w41ZJJZTbATvuiyeTqmTyIeXt3vf00BhqvKx57FfzMlVaAT7dj8awF4aZ+54qIxp0I0C+eB2KklkaPepA4AK7Z/BU+xqHcC2B0reUcDS296ClUeCAupajKK4GbIgJ8DFwDH44DO4MPiZ0zyH0s0s6nWawatJ27E942A7pep4e76ImnpjYyJk1IyWHzHxgZM42x3Gpns+Ya+9+5e7UzOCiaz4wElcfBfBcur+XFDL6HwVCTFTM/4HTnUOiVhaEXA70YWYqRl8mTqNrSSIY3ErqvmsCt8luqJ0MUZqRv3X3+JFp8B3pzEw98janrw42e+SLoxv+ZGMM1XJrWEDXdxFgYksbo1VERgf9j8LIGpx8ZaLX2oGO40dfaI0O1bRnyb/mvCl3EeTlss2Txynu4awQJamiVDqrARKnZNOF/4ARgqu+5Wwc5AAAAAASUVORK5CYII=" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ed215e2bd7c2a0edaab699d5be4b9d6b.png" xmlns="">01jl7xra6aUi2otO55Tqaxg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

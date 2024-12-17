@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="w44lFFhO70Sgl-WpzNKnKA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="weather.go.kr/w/weather/warning/status.do" CVScreenId="ff2c16f0-8674-496c-8325-80640f17881d" CvTextArea="496, 185, 110, 34" CvTextArgument="5gcġ" CvType="Text" DesignTimeRectangle="496, 185, 110, 34" DesignTimeScaleFactor="1" ElementType="Text" Guid="a78c1079-0b9f-4768-a2c1-91950b231702" ScopeSelectorArgument="&lt;html app='msedge.exe' title='특보현황 - 기상청 날씨누리' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="96a1bad0-de77-426c-9f26-e845416a1d21" CvTextArea="496, 318, 1190, 38" CvTextArgument="7|35Ye ? + ¥I7IE -7|" CvType="Text" DesignTimeRectangle="497, 307, 1200, 58" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='weather-warning' tag='H3' type='' class='tit' aaname=' &amp;#x9;&amp;#x9;기상특보 &amp;#x9;&amp;#x9; &amp;#x9;&amp;#x9; &amp;#x9;' check:innerText='기상특보&amp;#xA;+ 발표기준 보기' /&gt;" Guid="5a92cd4e-01ba-4202-a9b3-371f15725c03" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4677111dd9364b329e0d4f77ae0fde02.png" xmlns="">0xy0H42ecOEaDxU3dz-HMLw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

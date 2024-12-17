@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge 홈 - 기상청 날씨누리 - 개인 - Microsoft​ Edge",
+  "Type": "App",
+  "Id": "gAtj4pB2mUSpHOO5ow77nA",
+  "Reference": "9s0huugnE0uydbu7IVU6Ng/gAtj4pB2mUSpHOO5ow77nA",
+  "Created": "2024-12-13T05:48:36.8976587Z",
+  "Updated": "2024-12-13T05:48:36.8976587Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

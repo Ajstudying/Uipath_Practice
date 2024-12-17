@@ -1,0 +1,14 @@
+﻿{
+  "Name": "레이블 '5gcġ'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "mfrtBq0iLk28NroTKD5q9g",
+  "Reference": "9s0huugnE0uydbu7IVU6Ng/mfrtBq0iLk28NroTKD5q9g",
+  "ParentRef": "9s0huugnE0uydbu7IVU6Ng/wRcUJVYA4EqglL_1c7HWPQ",
+  "Created": "2024-12-13T06:02:51.121451Z",
+  "Updated": "2024-12-13T06:02:51.121451Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

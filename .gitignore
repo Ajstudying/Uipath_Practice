@@ -1,0 +1,18 @@
+# UiPath 프로젝트 무시할 항목
+
+# 로컬 환경 설정 파일
+*.local
+
+# 빌드 아티팩트
+bin/
+obj/
+
+# 로그 파일
+*.log
+
+# NuGet 패키지
+*.nupkg
+
+# 프로젝트 설정 파일
+project.json
+List_Practice.xaml.json

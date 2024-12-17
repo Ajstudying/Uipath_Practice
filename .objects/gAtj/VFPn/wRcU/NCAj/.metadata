@@ -1,0 +1,14 @@
+﻿{
+  "Name": "레이블 '특보현황'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "NCAjoiTU5kiYJmDhTlrinA",
+  "Reference": "9s0huugnE0uydbu7IVU6Ng/NCAjoiTU5kiYJmDhTlrinA",
+  "ParentRef": "9s0huugnE0uydbu7IVU6Ng/wRcUJVYA4EqglL_1c7HWPQ",
+  "Created": "2024-12-13T06:00:45.2972409Z",
+  "Updated": "2024-12-13T06:00:45.2972409Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

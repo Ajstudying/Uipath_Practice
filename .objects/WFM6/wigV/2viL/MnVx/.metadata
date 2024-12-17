@@ -1,0 +1,13 @@
+﻿{
+  "Name": "엘리먼트 '날씨'",
+  "Type": "Element",
+  "Id": "MnVx3VHS0UCwUgaWR0mKfg",
+  "Reference": "gHw9SlJEx0-kgF3fW80a6Q/MnVx3VHS0UCwUgaWR0mKfg",
+  "ParentRef": "gHw9SlJEx0-kgF3fW80a6Q/2viLqNU0yE6edL9K66a8sg",
+  "Created": "2024-12-14T11:56:44.7031019Z",
+  "Updated": "2024-12-14T11:56:44.7031019Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

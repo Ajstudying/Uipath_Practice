@@ -1,0 +1,14 @@
+﻿{
+  "Name": "날씨",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "AQ5zDQr6w0OtmjI4ycXd8A",
+  "Reference": "gHw9SlJEx0-kgF3fW80a6Q/AQ5zDQr6w0OtmjI4ycXd8A",
+  "ParentRef": "gHw9SlJEx0-kgF3fW80a6Q/2viLqNU0yE6edL9K66a8sg",
+  "Created": "2024-12-14T11:55:41.6100598Z",
+  "Updated": "2024-12-14T11:55:41.6100598Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Id": "VFPnx6h900WD10I_x9-2EQ",
+  "Reference": "9s0huugnE0uydbu7IVU6Ng/VFPnx6h900WD10I_x9-2EQ",
+  "ParentRef": "9s0huugnE0uydbu7IVU6Ng/gAtj4pB2mUSpHOO5ow77nA",
+  "Created": "2024-12-13T05:48:36.9258021Z",
+  "Updated": "2024-12-13T05:48:36.9258021Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
