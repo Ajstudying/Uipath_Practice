@@ -100,7 +100,7 @@
       <AssemblyReference>System.Runtime.Numerics</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="MailTest" sap:VirtualizedContainerService.HintSize="939,1073" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="MailTest" sap:VirtualizedContainerService.HintSize="939,757" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="mailID" />
       <Variable x:TypeArguments="x:String" Name="mailPW" />
@@ -525,7 +525,7 @@
         </OutArgument>
       </ufa:FormActivity.FormFieldsOutputData>
     </ufa:FormActivity>
-    <Sequence DisplayName="Sequence - 메일 연결" sap:VirtualizedContainerService.HintSize="488,866" sap2010:WorkflowViewState.IdRef="Sequence_31">
+    <Sequence DisplayName="Sequence - 메일 연결" sap:VirtualizedContainerService.HintSize="488,550" sap2010:WorkflowViewState.IdRef="Sequence_31">
       <Sequence.Variables>
         <Variable x:TypeArguments="scg:List(snm:MailMessage)" Name="mailList" />
         <Variable x:TypeArguments="x:String" Name="securityPW" />
@@ -536,31 +536,6 @@
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <If sap:VirtualizedContainerService.HintSize="418,316" sap2010:WorkflowViewState.IdRef="If_4">
-        <If.Condition>
-          <InArgument x:TypeArguments="x:Boolean">
-            <CSharpValue x:TypeArguments="x:Boolean" sap2010:WorkflowViewState.IdRef="CSharpValue`1_82">mailServer.Contains("")</CSharpValue>
-          </InArgument>
-        </If.Condition>
-        <If.Then>
-          <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="416,89" sap2010:WorkflowViewState.IdRef="Sequence_38">
-            <sap:WorkflowViewStateService.ViewState>
-              <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-              </scg:Dictionary>
-            </sap:WorkflowViewStateService.ViewState>
-          </Sequence>
-        </If.Then>
-        <If.Else>
-          <Sequence DisplayName="Else" sap:VirtualizedContainerService.HintSize="416,89" sap2010:WorkflowViewState.IdRef="Sequence_39">
-            <sap:WorkflowViewStateService.ViewState>
-              <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-              </scg:Dictionary>
-            </sap:WorkflowViewStateService.ViewState>
-          </Sequence>
-        </If.Else>
-      </If>
       <ui:GetPOP3MailMessages SecurePassword="{x:Null}" TimeoutMS="{x:Null}" DeleteMessages="False" DisplayName="Get POP3 Email List" EnableSSL="False" sap:VirtualizedContainerService.HintSize="418,122" sap2010:WorkflowViewState.IdRef="GetPOP3MailMessages_1" IgnoreCRL="False" SecureConnection="SslOnConnect" Top="5" UseISConnection="False" UseOAuth="True">
         <ui:GetPOP3MailMessages.ConnectionDetailsBackupSlot>
           <usau:BackupSlot x:TypeArguments="umae:ConnectionDetails" StoredValue="LegacyConfiguration">
