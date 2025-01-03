@@ -100,7 +100,7 @@
       <AssemblyReference>System.Runtime.Numerics</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="MailTest" sap:VirtualizedContainerService.HintSize="939,4549" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="MailTest" sap:VirtualizedContainerService.HintSize="939,1073" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="mailID" />
       <Variable x:TypeArguments="x:String" Name="mailPW" />
@@ -116,13 +116,13 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ufa:FormActivity CreateFormActivityFileName="{x:Null}" CreateFormActivityFilePath="{x:Null}" Dismissed="{x:Null}" FormFieldsInputData="{x:Null}" FormTitle="{x:Null}" IconPath="{x:Null}" LocalCSSFilePath="{x:Null}" SelectedButton="{x:Null}" TimeoutInSeconds="{x:Null}" WindowPositionLeft="{x:Null}" WindowPositionTop="{x:Null}" CreateFormId="1db060da-866f-4bb6-aa4f-c4be1f27c35b" DevTools="False" DisableMaximizeButton="True" DisableMinimizeButton="True" DisableSanitize="False" DisplayName="Create Form" EnableAccessibility="False" FormHeight="400" FormSchema="%[{&quot;label&quot;:&quot;메일 아이디&quot;,&quot;tableView&quot;:true,&quot;validate&quot;:{&quot;required&quot;:true,&quot;pattern&quot;:&quot;^([a-zA-Z0-9_]+|[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,})$&quot;,&quot;customMessage&quot;:&quot;다시 입력해주세요.&quot;},&quot;errorLabel&quot;:&quot;메일 아이디 입력 오류&quot;,&quot;key&quot;:&quot;mail_id&quot;,&quot;type&quot;:&quot;textfield&quot;,&quot;input&quot;:true},{&quot;label&quot;:&quot;비밀번호&quot;,&quot;tableView&quot;:true,&quot;validate&quot;:{&quot;required&quot;:true,&quot;customMessage&quot;:&quot;다시 입력해 주세요&quot;},&quot;key&quot;:&quot;mail_pw&quot;,&quot;type&quot;:&quot;textfield&quot;,&quot;input&quot;:true},{&quot;label&quot;:&quot;메일 서버 주소&quot;,&quot;tableView&quot;:true,&quot;validate&quot;:{&quot;required&quot;:true,&quot;pattern&quot;:&quot;^([a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}|(imap|pop3|pop3s)\\.[a-zA-Z0-9.-]+)$&quot;,&quot;customMessage&quot;:&quot;다시 입력해주세요&quot;},&quot;errorLabel&quot;:&quot;pop 서버 주소 오류&quot;,&quot;key&quot;:&quot;mail_server&quot;,&quot;type&quot;:&quot;textfield&quot;,&quot;input&quot;:true},{&quot;label&quot;:&quot;포트번호&quot;,&quot;tableView&quot;:true,&quot;validate&quot;:{&quot;required&quot;:true,&quot;pattern&quot;:&quot;^(?:[0-5]?[0-9]{0,4}|[1-5][0-9]{5}|6[0-4][0-9]{4}|65[0-3][0-9]{3}|655[0-2][0-9]{2}|6553[0-5])$&quot;,&quot;customMessage&quot;:&quot;포트번호 입력이 잘못되었습니다. 다시 입력해주세요.&quot;,&quot;minLength&quot;:1},&quot;key&quot;:&quot;port_number&quot;,&quot;type&quot;:&quot;textfield&quot;,&quot;input&quot;:true},{&quot;type&quot;:&quot;button&quot;,&quot;label&quot;:&quot;제출&quot;,&quot;key&quot;:&quot;submit&quot;,&quot;disableOnInvalid&quot;:true,&quot;input&quot;:true,&quot;alwaysEnabled&quot;:false,&quot;tableView&quot;:true}]" FormTheme="{}{&quot;Activities&quot;:[&quot;FORMS&quot;],&quot;Id&quot;:&quot;100120&quot;,&quot;Name&quot;:&quot;Default&quot;,&quot;BaseCss&quot;:&quot;./assets/css/themes/uipath.bootstrap.min.css&quot;,&quot;ImageSrc&quot;:&quot;./assets/themeicons/uipath.png&quot;,&quot;OverrideCssUrl&quot;:&quot;./assets/css/themes/uipath.custom.css&quot;,&quot;UserStyleOverrides&quot;:&quot;&quot;,&quot;Properties&quot;:&quot;&quot;,&quot;IsCustomTheme&quot;:false,&quot;Version&quot;:1,&quot;ThemeVersion&quot;:1}" FormWidth="400" GenerateInputFields="True" sap:VirtualizedContainerService.HintSize="648,3976" sap2010:WorkflowViewState.IdRef="FormActivity_4" IsReadOnly="False" MaxColumnsForSchemaGeneration="6" RunDoBlockFirst="False" RunInIsolatedMode="True" StartAsMinimized="False">
+    <ufa:FormActivity CreateFormActivityFileName="{x:Null}" CreateFormActivityFilePath="{x:Null}" Dismissed="{x:Null}" FormFieldsInputData="{x:Null}" FormTitle="{x:Null}" IconPath="{x:Null}" LocalCSSFilePath="{x:Null}" SelectedButton="{x:Null}" TimeoutInSeconds="{x:Null}" WindowPositionLeft="{x:Null}" WindowPositionTop="{x:Null}" CreateFormId="1db060da-866f-4bb6-aa4f-c4be1f27c35b" DevTools="False" DisableMaximizeButton="True" DisableMinimizeButton="True" DisableSanitize="False" DisplayName="Create Form" EnableAccessibility="False" FormHeight="400" FormSchema="%[{&quot;label&quot;:&quot;메일 아이디&quot;,&quot;tableView&quot;:true,&quot;validate&quot;:{&quot;required&quot;:true,&quot;pattern&quot;:&quot;^([a-zA-Z0-9_]+|[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,})$&quot;,&quot;customMessage&quot;:&quot;다시 입력해주세요.&quot;},&quot;errorLabel&quot;:&quot;메일 아이디 입력 오류&quot;,&quot;key&quot;:&quot;mail_id&quot;,&quot;type&quot;:&quot;textfield&quot;,&quot;input&quot;:true},{&quot;label&quot;:&quot;비밀번호&quot;,&quot;tableView&quot;:true,&quot;validate&quot;:{&quot;required&quot;:true,&quot;customMessage&quot;:&quot;다시 입력해 주세요&quot;},&quot;key&quot;:&quot;mail_pw&quot;,&quot;type&quot;:&quot;textfield&quot;,&quot;input&quot;:true},{&quot;label&quot;:&quot;메일 서버 주소&quot;,&quot;tableView&quot;:true,&quot;validate&quot;:{&quot;required&quot;:true,&quot;pattern&quot;:&quot;^([a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}|(imap|pop3|pop3s)\\.[a-zA-Z0-9.-]+)$&quot;,&quot;customMessage&quot;:&quot;다시 입력해주세요&quot;},&quot;errorLabel&quot;:&quot;pop 서버 주소 오류&quot;,&quot;key&quot;:&quot;mail_server&quot;,&quot;type&quot;:&quot;textfield&quot;,&quot;input&quot;:true},{&quot;label&quot;:&quot;포트번호&quot;,&quot;tableView&quot;:true,&quot;validate&quot;:{&quot;required&quot;:true,&quot;pattern&quot;:&quot;^(?:[0-5]?[0-9]{0,4}|[1-5][0-9]{5}|6[0-4][0-9]{4}|65[0-3][0-9]{3}|655[0-2][0-9]{2}|6553[0-5])$&quot;,&quot;customMessage&quot;:&quot;포트번호 입력이 잘못되었습니다. 다시 입력해주세요.&quot;,&quot;minLength&quot;:1},&quot;key&quot;:&quot;port_number&quot;,&quot;type&quot;:&quot;textfield&quot;,&quot;input&quot;:true},{&quot;type&quot;:&quot;button&quot;,&quot;label&quot;:&quot;제출&quot;,&quot;key&quot;:&quot;submit&quot;,&quot;disableOnInvalid&quot;:true,&quot;input&quot;:true,&quot;alwaysEnabled&quot;:false,&quot;tableView&quot;:true}]" FormTheme="{}{&quot;Activities&quot;:[&quot;FORMS&quot;],&quot;Id&quot;:&quot;100120&quot;,&quot;Name&quot;:&quot;Default&quot;,&quot;BaseCss&quot;:&quot;./assets/css/themes/uipath.bootstrap.min.css&quot;,&quot;ImageSrc&quot;:&quot;./assets/themeicons/uipath.png&quot;,&quot;OverrideCssUrl&quot;:&quot;./assets/css/themes/uipath.custom.css&quot;,&quot;UserStyleOverrides&quot;:&quot;&quot;,&quot;Properties&quot;:&quot;&quot;,&quot;IsCustomTheme&quot;:false,&quot;Version&quot;:1,&quot;ThemeVersion&quot;:1}" FormWidth="400" GenerateInputFields="True" sap:VirtualizedContainerService.HintSize="488,184" sap2010:WorkflowViewState.IdRef="FormActivity_4" IsReadOnly="False" MaxColumnsForSchemaGeneration="6" RunDoBlockFirst="False" RunInIsolatedMode="True" StartAsMinimized="False">
       <ufa:FormActivity.Body>
         <ActivityAction x:TypeArguments="scg:Dictionary(x:String, x:Object)">
-          <Sequence sap:VirtualizedContainerService.HintSize="610,3817" sap2010:WorkflowViewState.IdRef="Sequence_25">
+          <Sequence sap:VirtualizedContainerService.HintSize="450,25" sap2010:WorkflowViewState.IdRef="Sequence_25">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                <x:Boolean x:Key="IsExpanded">False</x:Boolean>
                 <x:Boolean x:Key="IsPinned">False</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
@@ -525,7 +525,7 @@
         </OutArgument>
       </ufa:FormActivity.FormFieldsOutputData>
     </ufa:FormActivity>
-    <Sequence DisplayName="Sequence - 메일 연결" sap:VirtualizedContainerService.HintSize="648,550" sap2010:WorkflowViewState.IdRef="Sequence_31">
+    <Sequence DisplayName="Sequence - 메일 연결" sap:VirtualizedContainerService.HintSize="488,866" sap2010:WorkflowViewState.IdRef="Sequence_31">
       <Sequence.Variables>
         <Variable x:TypeArguments="scg:List(snm:MailMessage)" Name="mailList" />
         <Variable x:TypeArguments="x:String" Name="securityPW" />
@@ -536,6 +536,31 @@
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
+      <If sap:VirtualizedContainerService.HintSize="418,316" sap2010:WorkflowViewState.IdRef="If_4">
+        <If.Condition>
+          <InArgument x:TypeArguments="x:Boolean">
+            <CSharpValue x:TypeArguments="x:Boolean" sap2010:WorkflowViewState.IdRef="CSharpValue`1_82">mailServer.Contains("")</CSharpValue>
+          </InArgument>
+        </If.Condition>
+        <If.Then>
+          <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="416,89" sap2010:WorkflowViewState.IdRef="Sequence_38">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+          </Sequence>
+        </If.Then>
+        <If.Else>
+          <Sequence DisplayName="Else" sap:VirtualizedContainerService.HintSize="416,89" sap2010:WorkflowViewState.IdRef="Sequence_39">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+          </Sequence>
+        </If.Else>
+      </If>
       <ui:GetPOP3MailMessages SecurePassword="{x:Null}" TimeoutMS="{x:Null}" DeleteMessages="False" DisplayName="Get POP3 Email List" EnableSSL="False" sap:VirtualizedContainerService.HintSize="418,122" sap2010:WorkflowViewState.IdRef="GetPOP3MailMessages_1" IgnoreCRL="False" SecureConnection="SslOnConnect" Top="5" UseISConnection="False" UseOAuth="True">
         <ui:GetPOP3MailMessages.ConnectionDetailsBackupSlot>
           <usau:BackupSlot x:TypeArguments="umae:ConnectionDetails" StoredValue="LegacyConfiguration">
